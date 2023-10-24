@@ -9,7 +9,7 @@ export default function Information() {
             <h2>Annual Plan</h2>
             <p>$59.99/year</p>
         </div>
-        <a href='#' className='change' >Change</a>
+        <a className='change' >Change</a>
     </div>
 
 

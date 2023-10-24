@@ -6,7 +6,7 @@ export default function Button() {
   return (
     <div>
       <button>Proceed to Payment</button>
-      <a href="#" className='cancel'>Cancel Order</a>
+      <a className='cancel'>Cancel Order</a>
     </div>
   )
 }
