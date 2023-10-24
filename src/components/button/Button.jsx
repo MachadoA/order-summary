@@ -5,8 +5,8 @@ import './button.component.css'
 export default function Button() {
   return (
     <div>
-      <button>Proceed to Payment</button>
-      <a className='cancel'>Cancel Order</a>
+      <button className='payment'>Proceed to Payment</button>
+      <p className='cancel'>Cancel Order</p>
     </div>
   )
 }

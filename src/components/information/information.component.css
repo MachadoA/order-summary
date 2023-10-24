@@ -12,7 +12,7 @@
 
 h2{color: hsl(223, 47%, 23%); font-size: 14px; font-weight: 900;}
 .icon-music{width: 40px; height: 40px;}
-.change{color: hsl(245, 75%, 52%); cursor: pointer;}
+.change{color: hsl(245, 75%, 52%); cursor: pointer; text-decoration: underline;}
 .change:hover{color: hsl(224, 23%, 55%);text-decoration: none;}
 h2, p{margin: 0;}
 .rows{padding-right: 54px;}
